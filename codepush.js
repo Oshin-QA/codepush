@@ -7,3 +7,5 @@ function greet(name) {
 console.log(greet("QA Tester"));
 
 console.log(greet("Updated QA"));
+
+console.log("Updated from VS Code UI");
